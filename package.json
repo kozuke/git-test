@@ -4,5 +4,14 @@
   "main": "index.js",
   "repository": "git@github.com:kozuke/git-test.git",
   "author": "kota ishizuka <kota.ishizuka1210@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^4.39.1"
+  },
+  "dependencies": {
+    "@vue/cli": "^3.10.0"
+  }
 }
